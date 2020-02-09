@@ -127,7 +127,6 @@ PRODUCT_PACKAGES += \
     NxpSecureElement \
     IFAAService \
     com.nxp.nfc \
-    vendor.oneplus.camera.CameraHIDL-V1.0-java \
     vendor.oneplus.hardware.param-V1.0-java
 
 ifeq ($(QCPATH),)
